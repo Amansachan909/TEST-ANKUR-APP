@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_niit3_test_ankur_test_app</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-08-05 07:31:07</sys_created_on>
+        <sys_id>ecd42a4e1bb742102c0c0e9cdc4bcb79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_niit3_test_ankur_test_app</sys_name>
+        <sys_package display_value="TEST ANKUR APP" source="x_niit3_test_ankur">4144ee0e1bb742102c0c0e9cdc4bcb12</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST ANKUR APP">4144ee0e1bb742102c0c0e9cdc4bcb12</sys_scope>
+        <sys_update_name>sys_security_acl_ecd42a4e1bb742102c0c0e9cdc4bcb79</sys_update_name>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-08-05 07:31:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

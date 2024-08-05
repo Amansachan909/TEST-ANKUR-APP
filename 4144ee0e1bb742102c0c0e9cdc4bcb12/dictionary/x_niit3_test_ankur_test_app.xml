@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cdc4e64e1bb742102c0c0e9cdc4bcb34" extends="sn_customerservice_task" label="TEST APP" max_length="40" name="x_niit3_test_ankur_test_app" type="collection"/>
+</database>
